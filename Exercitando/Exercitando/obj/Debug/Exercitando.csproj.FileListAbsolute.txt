@@ -1,0 +1,7 @@
+C:\Users\matheus.guida\source\repos\Exercitando\Exercitando\bin\Debug\Exercitando.exe.config
+C:\Users\matheus.guida\source\repos\Exercitando\Exercitando\bin\Debug\Exercitando.exe
+C:\Users\matheus.guida\source\repos\Exercitando\Exercitando\bin\Debug\Exercitando.pdb
+C:\Users\matheus.guida\source\repos\Exercitando\Exercitando\obj\Debug\Exercitando.csproj.AssemblyReference.cache
+C:\Users\matheus.guida\source\repos\Exercitando\Exercitando\obj\Debug\Exercitando.csproj.CoreCompileInputs.cache
+C:\Users\matheus.guida\source\repos\Exercitando\Exercitando\obj\Debug\Exercitando.exe
+C:\Users\matheus.guida\source\repos\Exercitando\Exercitando\obj\Debug\Exercitando.pdb
